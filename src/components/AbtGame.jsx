@@ -1,5 +1,5 @@
 import React from "react";
-import TranslateButton from "./TranslateButton";
+import TranslateButton from "./translateButton";
 
 const AbtGame = () => {
   const imgBg2 = "bg2.jpg";
