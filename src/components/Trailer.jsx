@@ -30,8 +30,8 @@ const Trailer = () => {
           <video
             ref={videoRef}
             className={`transition-all ease-in-out duration-1000 scroll-reveal mt-10 w-full h-auto shadow-lg ${
-              !isPaused ? "border-4 border-white rounded-2x" : ""
-            } ${!isBorded ? "border-4 border-white rounded-2x" : ""}`}
+              !isPaused ? "border-4 border-white rounded-2x" : "border-4 border-white rounded-2x"
+            } ${!isBorded ? "border-4 border-white rounded-2x" : "border-4 border-white rounded-2x"}`}
             // Removido o "controls" para esconder os controles nativos
           >
             <source src="video-trailer.mp4" type="video/mp4" />
