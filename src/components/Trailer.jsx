@@ -23,7 +23,7 @@ const Trailer = () => {
   };
 
   return (
-    <div className="bg-black text-purple-50 h-screen flex bg-cover bg-left bg-[url(bg3.webp)]">
+    <div className="bg-black text-purple-50 h-screen flex bg-cover bg-left bg-[url(/bg3.webp)]">
       <div className="flex items-center mx-auto flex-col">
         <h1 className="scroll-reveal text-6xl mt-10">Trailer</h1>
         <div className="relative w-full max-w-4xl">
