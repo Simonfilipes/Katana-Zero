@@ -1,5 +1,5 @@
 import React, { useEffect } from "react";
-import Header from "./components/Header";
+import Header from "./components/header";
 import Hero from "./components/Hero";
 import AbtGame from "./components/AbtGame";
 import Trailer from "./components/Trailer";
