@@ -1,6 +1,6 @@
 import React, { useEffect } from "react";
-import Header from "./components/header";
-import Hero from "./components/hero";
+import Header from "./components/Header";
+import Hero from "./components/Hero";
 import AbtGame from "./components/AbtGame";
 import Trailer from "./components/Trailer";
 import Plataforms from "./components/Plataforms";
